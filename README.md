@@ -1,66 +1,92 @@
 
-# UFood Marketing Campaign Optimization
+# UFood Marketing Campaign Optimization Project
 
-**Author:** Joel Martin
-
-## 📘 Overview
-
-This project analyzes UFood's customer and marketing data to derive actionable insights and improve the effectiveness of marketing campaigns. Using Python (Pandas, Seaborn, Matplotlib), we identify spending behavior, campaign responsiveness, and the influence of demographics on customer engagement.
-
-## 📁 Project Structure
-
-```
-UFood-Marketing-Analysis/
-├── data/                   # Raw and processed datasets
-├── notebooks/              # Original Jupyter notebook
-├── plots/                  # Visualizations and plots
-├── report/                 # Markdown or PDF reports
-├── scripts/                # Converted script from notebook
-```
-
-## 📊 Visualizations
-
-### Age and Campaign Behavior
-![Age Group Distribution](plots/age_group_distribution.png)
-![Campaign Acceptance by Age](plots/campaign_acceptance_by_age.png)
-
-### Children and Campaign Response
-![Spending vs Children](plots/spending_vs_children.png)
-![Acceptance vs Children](plots/acceptance_vs_children.png)
-
-### Marital Status Analysis
-![Marital Status Distribution](plots/marital_status_distribution.png)
-![Spending by Marital Status](plots/spending_by_marital_status.png)
-![Acceptance by Marital Status](plots/acceptance_by_marital_status.png)
-
-### Education & Channel Preferences
-![Acceptance vs Education](plots/acceptance_vs_education.png)
-![Channel Purchase Distribution](plots/channel_purchase_distribution.png)
-
-### Correlation Analysis
-![Correlation Heatmap](plots/correlation_heatmap.png)
-
-## 🧠 Key Findings
-
-- Age 31–70 spends the most but accepts fewer campaigns.
-- Customers with fewer children are more responsive to campaigns.
-- Catalog users are highly receptive; store purchases dominate volume.
-- Education does not significantly affect campaign behavior.
-- Married, single, and cohabiting individuals are high spenders.
-
-## ✅ Recommendations
-
-- Focus campaign engagement efforts on ages 23–30 and 71–80.
-- Target catalog for conversions, web/store for volume.
-- Prioritize users with no or few children.
-- Avoid over-segmentation by education level.
-
-## 🚀 How to Run
-
-1. Clone the repository
-2. Open `notebooks/UFOOD_Marketing_Analysis.ipynb` in Jupyter
-3. Run all cells to reproduce results
+**Prepared by:** Joel Martin
 
 ---
 
-> For more, view the full analysis in the notebook or PDF report.
+## Introduction
+
+This project is a comprehensive analysis of customer behavior and marketing campaign effectiveness at UFood, Brazil's leading food delivery company...
+
+## Project Overview
+
+This analysis focuses on understanding the effectiveness of past marketing campaigns by exploring customer characteristics, purchase behavior, and campaign responses...
+
+## Demographic Insights
+
+One of the most compelling findings emerged from the age-based segmentation...
+
+![Age Group Distribution](https://postimg.cc/your-link-here)
+![Campaign Acceptance by Age Group](https://postimg.cc/your-link-here)
+
+A further demographic dimension explored was the influence of children...
+
+![Spending vs Number of Children](https://postimg.cc/your-link-here)
+![Acceptance vs Number of Children](https://postimg.cc/your-link-here)
+
+Education level showed minimal impact...
+
+![Acceptance vs Education](https://postimg.cc/your-link-here)
+
+Marital status also yielded insights...
+
+![Marital Status Count](https://postimg.cc/your-link-here)
+![Spending by Marital Status](https://postimg.cc/your-link-here)
+![Acceptance by Marital Status](https://postimg.cc/your-link-here)
+
+---
+
+## Purchase Channel Behavior
+
+Analyzing the types of purchases revealed that store purchases were the most common...
+
+![Purchase Channel Distribution](https://postimg.cc/your-link-here)
+
+Joint regression plots showed positive spending correlations...
+
+![MntTotal vs Web Purchases](https://postimg.cc/your-link-here)
+![MntTotal vs Catalog Purchases](https://postimg.cc/your-link-here)
+![MntTotal vs Store Purchases](https://postimg.cc/your-link-here)
+
+---
+
+## Statistical Correlations and Predictive Patterns
+
+Pearson correlation analysis highlighted several patterns...
+
+![Correlation Heatmap](https://postimg.cc/your-link-here)
+
+---
+
+## Key Recommendations
+
+1. **Dual Audience Targeting**  
+2. **Optimize by Family Status**  
+3. **Reallocate Campaign Resources**  
+4. **Ignore Education Level**  
+5. **Focus on Relationship-Based Segments**  
+
+---
+
+## Conclusion
+
+This project provides a data-driven foundation to optimize UFood's marketing campaigns...
+
+---
+
+## Visuals To Include
+
+The following plots should be added with PostImage URLs:
+- Age group distributions
+- Campaign acceptance rates
+- Regression plots (children, education)
+- Marital status visuals
+- Purchase channel comparison
+- Jointplots by purchase type
+- Correlation heatmap
+
+> 📌 Replace each image link with the actual PostImage URLs for hosted visuals.
+
+---
+
