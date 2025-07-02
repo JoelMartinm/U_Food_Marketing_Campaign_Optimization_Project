@@ -1,7 +1,7 @@
 # U_Food_Marketing_Campaign_Optimization_Project
 
 
-Introduction
+<h1>Introduction<h1>
 
 This project is a comprehensive analysis of customer behavior and marketing campaign effectiveness at UFood, Brazil's leading food delivery company. With a user base of several hundred thousand and nearly a million customers served annually, UFood is a significant player in the Brazilian food tech market. Despite strong revenues and a healthy bottom line in recent years, the company is currently facing stagnant profit growth. To reverse this trend, the marketing department is under pressure to optimize campaign performance and spending.
 
