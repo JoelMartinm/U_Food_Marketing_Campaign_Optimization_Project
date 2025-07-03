@@ -120,5 +120,3 @@ This project demonstrates how thoughtful data analysis can directly support busi
 
 Ultimately, this analysis goes beyond surface-level insights and provides a practical roadmap for UFood’s marketing team. With actionable recommendations based on real customer data, UFood can refine its targeting, maximize its marketing ROI, and regain its momentum for sustainable profit growth. As the company navigates a competitive market, leveraging data-driven decisions will be key to staying ahead and building lasting customer relationships.
 
-
----
